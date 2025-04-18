@@ -57,5 +57,3 @@ This is a front-end mock; credentials aren't verified.
 ---
 
 ## 👨‍💻 Built with ❤️ by Ayush Thakur
-
-```
